@@ -1,4 +1,4 @@
-#Wrangling WeRateDogs Twitter Data
+# Wrangling WeRateDogs Twitter Data
 For this project I was set with the task of cleaning tweet data belonging to the popular WeRateDogs twitter account. This report describes the data wrangling process undertaken. 
  
 Gather – The data for this project was gathered from three sources. The twitter archive, which is a csv file containing the tweet, rating, dog name & dog stage data. An Image prediction file was a TSV file that held the tweet & associated tweet Image details, as well as prediction columns that tell us what dog breed the tweet image contains. The twitter API was accessed to collect retweet and favorite counts for each tweet. A Twitter developer account had to be created at this step-in order to gain access to the Twitter API account. 
